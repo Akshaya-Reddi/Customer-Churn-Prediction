@@ -38,13 +38,6 @@ Customer churn prediction helps businesses identify customers who are likely to 
 - Higher monthly charges increase churn probability
 - Recall and ROC-AUC are more important than accuracy for churn prediction
 
-## Project Structure
-Customer-Churn-Prediction/
-├── notebooks/
-├── data/
-├── report/
-├── README.md
-
 ## Future Improvements
 - Web app deployment
 - Real-time prediction
