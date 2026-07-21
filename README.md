@@ -63,21 +63,6 @@ Try the **Upload CSV** tab with the included `sample_customers.csv`.
 
 ---
 
-## ☁️ Deploy on Streamlit Community Cloud (free)
-
-1. Push this folder to a **public GitHub repository**.
-   > Make sure `churn_model.pkl`, `model_meta.pkl`, `app.py`,
-   > `requirements.txt`, and the `.streamlit/config.toml` folder are committed
-   > (they are **not** git-ignored).
-2. Go to **https://share.streamlit.io** → **New app**.
-3. Select your repo, branch, and set the main file to **`app.py`**.
-4. Click **Deploy**. Done ✅
-
-> **Tip:** `scikit-learn` is pinned to the exact version used to create the
-> pickle (`1.8.0`) so the model loads cleanly in the cloud.
-
----
-
 ## 🧠 How the model works
 
 The notebook compared six models (Logistic Regression, Decision Tree, Random
