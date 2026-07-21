@@ -1,0 +1,11 @@
+# Streamlit theme configuration.
+# Pinning a LIGHT theme so the dashboard looks the same for every user
+# (locally and on Streamlit Cloud) and so the white cards / coloured
+# table rows always have readable dark text.
+[theme]
+base = "light"
+primaryColor = "#6366f1"          # indigo accent (buttons, sliders)
+backgroundColor = "#f5f7fb"       # soft grey page background
+secondaryBackgroundColor = "#ffffff"  # cards / sidebar
+textColor = "#1f2937"             # dark slate text
+font = "sans serif"
