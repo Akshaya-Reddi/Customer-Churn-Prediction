@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# NOTE: churn_model.pkl and model_meta.pkl are intentionally NOT ignored,
+# because Streamlit Cloud needs them to serve predictions.
