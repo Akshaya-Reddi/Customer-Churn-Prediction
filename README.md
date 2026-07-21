@@ -80,4 +80,4 @@ never has to re-implement preprocessing.
 
 ## This is deployed in Streamlit cloud
 
-This is the link : ![Streamlit app](https://akshaya-reddi-customer-churn-prediction-app-r1oahs.streamlit.app/)
+This is the link : **https://akshaya-reddi-customer-churn-prediction-app-r1oahs.streamlit.app/**
