@@ -75,3 +75,9 @@ This means the saved pickle accepts **raw** customer values directly, so the app
 never has to re-implement preprocessing.
 
 **Test-set performance:** ~80% accuracy, ROC-AUC ≈ 0.84.
+
+---
+
+## This is deployed in Streamlit cloud
+
+This is the link : ![Streamlit app](https://akshaya-reddi-customer-churn-prediction-app-r1oahs.streamlit.app/)
